@@ -24,41 +24,6 @@ Tools: Git, GitHub
 Learning: Python, Data Analysis (NumPy, Pandas)
 ```
 
-## 🌟 Featured Projects
-
-### 📱 Personal Portfolio Website
-A responsive portfolio website showcasing my skills and projects.
-- **Technologies:** HTML5, CSS, JavaScript
-- [View Project](#)
-
-### ☁️ Weather Web Application
-A weather app integrating the OpenWeatherMap API with real-time data and dynamic UI.
-- **Technologies:** HTML5, CSS, JavaScript, REST API
-- [View Project](#)
-
-### 🧮 Data Structures Implementation
-Custom implementations of common data structures with optimized performance.
-- **Technologies:** Java, Algorithms, Data Structures
-- [View Project](#)
-
-### 📊 Machine Learning Basics
-Exploration of machine learning concepts using Python libraries.
-- **Technologies:** Python, NumPy, Pandas
-- [View Project](#)
-
-## 📚 Education
-
-- **BSc in Computer Science** | Kirinyaga University (2023-2027)
-  - Relevant coursework: Programming, Data Structures, Algorithms, Web Development, Database Systems, Machine Learning Fundamentals
-
-- **Kenya Certificate of Secondary Education** | Gathungururu Girls High School (2019-2022)
-  - Strong foundation in Mathematics, Physics, and Computer Studies
-
-## 🤝 Community Involvement
-
-- Active member of Kirinyaga University Tech Club
-- Volunteer for Community Coding Initiatives, organizing coding boot camps for young learners
-
 ## 📫 Get In Touch
 
 - 📧 Email: eunicegikaru36@gmail.com
